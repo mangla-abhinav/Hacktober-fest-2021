@@ -1,4 +1,5 @@
 package New2;
+//Abstract classes
 
 abstract class Area{
 	abstract void calculateArea(int l,int b); //unini
