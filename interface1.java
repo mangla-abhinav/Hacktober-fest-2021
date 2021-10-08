@@ -1,3 +1,4 @@
+//interface1
 package New1;
 interface Area
 {

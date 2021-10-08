@@ -1,3 +1,4 @@
+//constructor class
 class Data{
      String r;
      int n;
